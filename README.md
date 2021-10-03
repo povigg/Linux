@@ -1,23 +1,12 @@
-# Connecting to Android using ADB
+# Linux
+All about Linux
 
-## Connecting to Android using ADB
+////////////////////Cheat Sheat/////////////////
 
-Android Debug Bridge \(ADB\)
 
-* USB debugging on the device must be enabled
-* Devices are connected to the same network
-* Device is listening on TCP/IP port 5555
-* ​
+////////Accessing Android (using Dev tools+Android Debug Bridge(adb))////
+  USB Debugging on the device must be enabled
+Device is listeng for TCP/IP on port 5555
 
-1. Set device to listen to 5555
-2. Connect to the device by its IP
-3. Confirm connection
 
-```text
-$ adb tcpip 5555
-$ adb connect x.x.x.x:5555
-$ adb devices
-```
-
-​
-
+///////////////////////////////////////////////
