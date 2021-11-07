@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Connecting to Android using ADB](README.md)
+* [Linux Theory](README.md)
+* [Connecting to Android using ADB](<README (1).md>)
 * [Linux Cheat Sheat](linux-cheat-sheat.md)
 * [NMAP](nmap.md)
-
